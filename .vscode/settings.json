@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b07b981b-0270-4e4c-ae22-06850c54d722/resourceGroups/nodejsawssql_group/providers/Microsoft.Web/sites/nodejsawssql",
+    "appService.deploySubpath": "."
+}
